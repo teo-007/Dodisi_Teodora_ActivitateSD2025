@@ -8,5 +8,8 @@ int main()
 	scanf_s("%d", &a);
 	printf("You entered: %d", a);
 
+	//citirea unei vb reale
+
+
 	return 0;
 }
