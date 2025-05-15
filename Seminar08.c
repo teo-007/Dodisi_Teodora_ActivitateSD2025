@@ -229,7 +229,6 @@ int main()
     else {
         printf("\nMasina cu ID 6 nu a fost gasita.\n");
     }
-
     dezalocareArboreDeMasini(&rad);
     return 0;
 }
